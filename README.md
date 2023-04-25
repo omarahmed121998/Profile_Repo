@@ -10,14 +10,8 @@
 <h3>🚀 About Me</h3> 
 <h4> A highly motivated DevOps engineer with a passion to work and learning to gain more knowledge and experience to start my career as a DevOps engineer to achieve success for me and my organization. </h4>
 
-
 	
-
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-
-
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omarahmed121998@gmail.com)](mailto:omarahmed121998@gmail.com)
@@ -28,14 +22,7 @@
 
 <a href="mailto:omarahmed121998@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-<!-- ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-<br/>
--->
 
