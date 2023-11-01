@@ -8,7 +8,8 @@
 
 
 <h3> About Me</h3> 
-<h4> A highly motivated DevOps engineer with a passion to work and learning to gain more knowledge and experience to start my career as a DevOps engineer to achieve success for me and my organization. </h4>
+<h4> A highly motivated System Administrator Engineer with a Bachelor's degree in Computer Science collage 
+From Al-Ahram Canadian University </h4>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/black.gif" width= 25% height=95px>
 
