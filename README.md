@@ -8,7 +8,7 @@
 
 
 <h3> About Me</h3> 
-<h4> A highly motivated System Administrator Engineer with a Bachelor's degree in Computer Science collage 
+<h4> A highly motivated DevOps Engineer with a Bachelor's degree in Computer Science collage 
 From Al-Ahram Canadian University </h4>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/black.gif" width= 25% height=95px>
